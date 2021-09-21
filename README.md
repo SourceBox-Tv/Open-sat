@@ -3,4 +3,4 @@ We're a group of teenagers hoping to be the youngest group of people to successf
 
 It's designed to be the thinnest and cheapest satellite on the market, while still being functional.
 
-See case files here https://www.tinkercad.com/things/iC46y6fCpdT
+See case files here https://www.tinkercad.com/things/0fu4ugtbC8b-opensat-sourceboxtv
